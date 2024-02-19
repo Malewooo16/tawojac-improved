@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { CarouselDefault } from "./CarouselPics";
+import  CarouselDefault  from "./CarouselPics";
 
 export default function LandingUI() {
   const [loading, setLoading] = useState(true);
